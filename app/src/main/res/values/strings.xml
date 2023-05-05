@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Guess the Number</string>
+    <string name="score">Score:</string>
+    <string name="score_number">10</string>
+    <string name="hint_answer">Input your answer</string>
+    <string name="button_enter">Enter</string>
+    <string name="correct_answer">It\'s correct answer</string>
+    <string name="incorrect_answer">It\'s incorrect answer</string>
 </resources>
